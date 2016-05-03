@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/rotohun/mean-todo#readme",
   "dependencies": {
-    "express": "4.13.4"
+    "angular": "^1.5.5",
+    "express": "4.13.4",
+    "mongoose": "4.4.14"
   }
 }
