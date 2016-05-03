@@ -1,0 +1,26 @@
+{
+  "name": "mean-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rotohun/mean-todo.git"
+  },
+  "keywords": [
+    "mean",
+    "stack"
+  ],
+  "author": "Ronald Hunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rotohun/mean-todo/issues"
+  },
+  "homepage": "https://github.com/rotohun/mean-todo#readme",
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
